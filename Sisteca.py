@@ -1,26 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""					Cabeçalho
-	# Author: Ramon Alves P. de Souza
-	# Turma: 3º "I"
-	# Disciplina: Banco de Dados
-	# Função do projeto: Desenvolver um Sistema para uma Biblioteca ultilizando Python juntamente com SQL(banco de dados).
-	# Titulo do projeto: Sisteca
-	# Data de Criação: 22/01/2019
-	# Ultima mod.: 19/09/2019
-	# Mod.:
-		1º Criação das tabelas (Aluno & Livros);
-		2º Cadratro de leitor (aluno e funcionário) e livros;
-		3º Função de Busca leitor;
-		4º Função de Busca livro (por nome, codigo ou genero);
-		5º Função de entrega de livro;
-		6º Mensagem de função realizada com sucesso;
-		7º Implementar um verificador de dados já cadrastado no quisito 2º; (OK) (12/02/2019)
-		8º Desenvolver um regulador de emprétimos (com a devolução dentre de 15 dias); (OK) (13/02/2019)
-		9º Correções de bugs...
-	# Modificações futuras:
-		I. Adicionar, nos quisitos 5 & 7, a função de cobrança de multa no valor de R$0,50 por dia de atraso da entrega do livro;
-"""
 
 # Importações
 import os
