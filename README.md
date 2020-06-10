@@ -1,9 +1,11 @@
 # Sisteca
  Script python para gerenciar biblioteca
 
-## Do que se trata?
+## 🤔 Do que se trata?
+ Projetinho python bem simples para gerenciar uma biblioteca.
+ 
 
-## Este projeto foi produzido com:
+## 🔨 Este projeto foi produzido com:
 * [Python 3.8](https://www.python.org/)
 * [pip 20.1](https://pypi.org/)
 * [SQLite3](https://docs.python.org/3/library/sqlite3.html)
@@ -17,7 +19,7 @@
 
 ## 📅 Datas:
     Criação: 22/01/2019
-    Ultima mod.: 10/06/2020
+    Upload GitHub: 10/06/2020
 
 ## ✍ Modificações:
     1º Criação das tabelas (Aluno & Livros);
@@ -36,5 +38,5 @@
     II. Adicionar uma interface para melhor experiencia do usuario 😉✌;
 
 ## 👨‍💻 Envolvidos nessa brincadeira 
-* [Ramon Alves](https://github.com/RamonAlves1357)
+* [Ramon Alves](https://www.gitshowcase.com/ramonalves1357)
 * [Igor Silva](https://github.com/igorsilva3)
